@@ -19,8 +19,8 @@
     },
     "keywords": ["net", "buffer", "protobuf", "serialization", "bytebuffer", "websocket", "webrtc"],
     "dependencies": {
-        "bytebuffer": "~2",
-        "ascli": "latest"
+        "bytebuffer": "https://github.com/x2es/ByteBuffer.js/archive/v2.3.1-dfix.tar.gz",
+        "ascli": "https://github.com/x2es/ascli/archive/v0.3.0.tar.gz"
     },
     "devDependencies": {
         "testjs": "latest",
